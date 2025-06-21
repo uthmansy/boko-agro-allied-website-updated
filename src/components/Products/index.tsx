@@ -22,7 +22,7 @@ const products: Product[] = [
     img: PRODUCT_1.src,
   },
   {
-    title: "NKP 20:10:10",
+    title: "NKP 15:15:15",
     description:
       "It promotes healthy growth, strong root systems, and better crop yields. Suitable for a wide range of crops.",
     img: PRODUCT_1.src,
