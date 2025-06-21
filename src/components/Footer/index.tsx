@@ -31,6 +31,13 @@ export default function Footer() {
                 >
                   info@bokoagroallied.com
                 </a>
+                ,
+                <a
+                  href="mailto:bokoagroallied@gmail.com"
+                  className="hover:underline text-gray-300"
+                >
+                  bokoagroallied@gmail.com
+                </a>
               </li>
               <li>
                 <strong className="uppercase tracking-wider">Office:</strong>{" "}
@@ -41,7 +48,7 @@ export default function Footer() {
               <li>
                 <strong className="uppercase tracking-wider">Factory:</strong>{" "}
                 <br />
-                No. 61 Ungogo Road, Kano, Kano State
+                No. 61 Ungogo Road, Kunture, Kano, Kano State
               </li>
             </ul>
           </div>
