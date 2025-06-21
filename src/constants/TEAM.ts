@@ -10,17 +10,17 @@ interface Team {
 }
 
 export const teams: Team[] = [
+  // {
+  //   name: "Attahiru Machido",
+  //   designation: "Board Chairman",
+  //   picture: TEAM_1.src,
+  //   url: "/team/1",
+  //   id: "1",
+  //   profile: [],
+  // },
   {
-    name: "Attahiru Machido",
-    designation: "Board Chairman",
-    picture: TEAM_1.src,
-    url: "/team/1",
-    id: "1",
-    profile: [],
-  },
-  {
-    name: "Muhammad Sambo",
-    designation: "President",
+    name: "Muhammad Sambo Alhasan",
+    designation: "Group Executive Chairman",
     picture: TEAM_2.src,
     url: "/team/2",
     id: "2",
@@ -35,7 +35,7 @@ company. `,
     ],
   },
   {
-    name: "Nazir Alhassan",
+    name: "Alhassan Nazir Abdullahi",
     designation: "Group Managing Director",
     picture: TEAM_3.src,
     url: "/team/3",
