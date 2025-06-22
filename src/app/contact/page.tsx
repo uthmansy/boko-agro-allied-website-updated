@@ -79,6 +79,13 @@ function ContactPage() {
                       <br />
                       No. 61 Ungogo Road, Kunture, Kano, Kano State
                     </li>
+                    <li>
+                      <strong className="uppercase tracking-wider">
+                        Factory 2:
+                      </strong>{" "}
+                      <br />
+                      NO. 2 Geda House, Emir`s Palace, Birnin-Kebbi, Kebbi State
+                    </li>
                   </ul>
                 </div>
               </div>
